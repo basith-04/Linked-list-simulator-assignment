@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://vizlist.dev/projects/c153568d-02b4-433d-8663-2bcd066c7fcf
+
 
 ## How can I edit this code?
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use VizList**
 
-Simply visit the [VizList Project](https://vizlist.dev/projects/c153568d-02b4-433d-8663-2bcd066c7fcf) and start prompting.
+
 
 Changes made via VizList will be committed automatically to this repo.
 
@@ -18,7 +18,7 @@ Changes made via VizList will be committed automatically to this repo.
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in VizList.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+The only requirement is having Node.js & npm installed 
 
 Follow these steps:
 
@@ -60,14 +60,3 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [VizList](https://vizlist.dev/projects/c153568d-02b4-433d-8663-2bcd066c7fcf) and click on Share -> Publish.
-
-## Can I connect a custom domain to my VizList project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.vizlist.dev/tips-tricks/custom-domain#step-by-step-guide)
